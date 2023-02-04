@@ -22,7 +22,7 @@
     </pyqgis_plugin>
 
     <pyqgis_plugin name="속성입력" version="1.2" plugin_id="100000">
-        <description><![CDATA[속성입력]]></description>
+        <description><![CDATA[속성값 일괄 입력]]></description>
         <about><![CDATA[속성입력]]></about>
         <version><![CDATA[1.2]]></version>
         <trusted>False</trusted>
