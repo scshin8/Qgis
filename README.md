@@ -1,1 +1,1 @@
-# Qgis
+# Qgis plugins
