@@ -1,9 +1,9 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
-    <pyqgis_plugin name="좌표도구" version="2.0" plugin_id="100000">
+    <pyqgis_plugin name="좌표도구" version="1.0" plugin_id="100000">
         <description><![CDATA[좌표 복사, 이동, 변환 하거나 웹지도를 연결하는 도구]]></description>
         <about><![CDATA[이 플러그인은 좌표의 이동, 복사 하거나, 카카오 NAVER 와 같은 웹페이지를 열 수 있고, API를 이용 주소 및 키워드 검색도 할 수 있으며, 링크의 길이 폴리곤의 면적과 같은 도형 값을 필드 계산기를 사용하지 않고 더 적은 단계로 결과를 얻을 수 있습니다.]]></about>
-        <version><![CDATA[2.0]]></version>
+        <version><![CDATA[1.0]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
@@ -11,13 +11,33 @@
         <icon>https://scshin8.github.io/Qgis/coordinate_tool/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/coordinate_tool/coordinate_tool.zip</download_url>
-        <create_date>2022-05-14</create_date>
         <update_date>2023-02-03</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
         <repository><![CDATA[https://github.com/scshin8/Qgis]]></repository>
         <tags><![CDATA[Naver, StreetView, KAKAO, RoadView, street, view]]></tags>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
+
+    <pyqgis_plugin name="속성입력" version="1.2" plugin_id="100000">
+        <description><![CDATA[속성입력]]></description>
+        <about><![CDATA[속성입력]]></about>
+        <version><![CDATA[1.2]]></version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage><![CDATA[]]></homepage>
+        <file_name>add_values_ver2.zip</file_name>
+        <icon>https://scshin8.github.io/Qgis/add_values/icon.png</icon>
+        <author_name><![CDATA[scshin]]></author_name>
+        <download_url>https://scshin8.github.io/Qgis/add_values/add_values_ver2.zip</download_url>
+        <update_date>2023-01-18</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[]]></tracker>
+        <repository><![CDATA[https://github.com/scshin8/Qgis]]></repository>
+        <tags><![CDATA[field, value]]></tags>
         <external_dependencies></external_dependencies>
         <server>False</server>
     </pyqgis_plugin>
