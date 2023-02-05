@@ -2,9 +2,7 @@
 <plugins>
     <pyqgis_plugin name="좌표도구" version="3.0" plugin_id="100000">
         <description><![CDATA[좌표 복사, 이동, 변환 하거나 웹지도를 연결하는 도구]]></description>
-        <about><![CDATA[- 이 플러그인은 좌표 복사 및 좌표이동 쉬우며, 카카오 NAVER 와 같은 웹지도를 연결 할 수 있습니다.
-- API를 이용하여 주소검색과 키워드 검색도 지원합니다.
-- 백터레이어의 길이, 좌표, 면적과 같은 도형의 값을 필드 계산기를 사용하지 않고 쉽게 결과를 얻을 수 있습니다.]]></about>
+        <about><![CDATA[이 플러그인은 좌표 복사 및 좌표이동 쉬우며, 카카오 NAVER 와 같은 웹지도를 연결 할 수 있습니다. API를 이용하여 주소검색과 키워드 검색도 지원합니다. 백터레이어의 길이, 좌표, 면적과 같은 도형의 값을 필드 계산기를 사용하지 않고 쉽게 결과를 얻을 수 있습니다.]]></about>
         <version><![CDATA[3.0]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
