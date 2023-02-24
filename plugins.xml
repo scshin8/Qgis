@@ -82,7 +82,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
         <repository><![CDATA[https://github.com/scshin8/Qgis]]></repository>
-        <tags><![CDATA[field, value]]></tags>
+        <tags><![CDATA[Layer]]></tags>
         <external_dependencies></external_dependencies>
         <server>False</server>
     </pyqgis_plugin>
