@@ -45,6 +45,27 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
     
+    <pyqgis_plugin name="코맨트 입력" version="0.1" plugin_id="100000">
+        <description><![CDATA[코맨트 입력]]></description>
+        <about><![CDATA[코맨트 입력]]></about>
+        <version><![CDATA[0.1]]></version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage><![CDATA[]]></homepage>
+        <file_name>comment_manager.zip</file_name>
+        <icon>https://scshin8.github.io/Qgis/comment_manager/icon.png</icon>
+        <author_name><![CDATA[scshin]]></author_name>
+        <download_url>https://scshin8.github.io/Qgis/comment_manager/comment_manager.zip</download_url>
+        <update_date>2023-03-12T01:23:45</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[]]></tracker>
+        <repository><![CDATA[https://github.com/scshin8/Qgis]]></repository>
+        <tags><![CDATA[comment]]></tags>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
+    
     <pyqgis_plugin name="레이어이동" version="0.4" plugin_id="100000">
         <description><![CDATA[선택레이어 변경, 이동]]></description>
         <about><![CDATA[레이어이동]]></about>
