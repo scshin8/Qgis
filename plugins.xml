@@ -33,10 +33,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
-        <file_name>coordinate_tool_MAC.zip</file_name>
+        <file_name>coordinate_tool_mac.zip</file_name>
         <icon>https://scshin8.github.io/Qgis/coordinate_tool/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
-        <download_url>https://scshin8.github.io/Qgis/coordinate_tool/coordinate_tool_MAC.zip</download_url>
+        <download_url>https://scshin8.github.io/Qgis/coordinate_tool/coordinate_tool_mac.zip</download_url>
         <update_date>2023-03-12T11:57:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
