@@ -50,7 +50,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
     <pyqgis_plugin name="속성입력" version="3.0" plugin_id="100000">
         <description><![CDATA[속성값 일괄 입력]]></description>
         <about><![CDATA[속성입력_ver3]]></about>
-        <version><![CDATA[3.0]]></version>
+        <version><![CDATA[3.1]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
