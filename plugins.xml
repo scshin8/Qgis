@@ -58,7 +58,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/add_values/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/add_values/add_values.zip</download_url>
-        <update_date>2023-03-09T01:23:45</update_date>
+        <update_date>2023-03-24T01:23:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
