@@ -47,10 +47,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
     
-    <pyqgis_plugin name="속성입력" version="3.4" plugin_id="100000">
+    <pyqgis_plugin name="속성입력" version="3.5" plugin_id="100000">
         <description><![CDATA[속성값 일괄 입력]]></description>
         <about><![CDATA[속성입력_ver3]]></about>
-        <version><![CDATA[3.4]]></version>
+        <version><![CDATA[3.5]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
@@ -110,10 +110,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
     
-    <pyqgis_plugin name="속성매칭" version="0.2" plugin_id="100000">
+    <pyqgis_plugin name="속성매칭" version="0.3" plugin_id="100000">
         <description><![CDATA[속성값 복사, 붙여넣기]]></description>
         <about><![CDATA[속성매칭]]></about>
-        <version><![CDATA[0.2]]></version>
+        <version><![CDATA[0.3]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
