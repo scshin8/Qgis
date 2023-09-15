@@ -47,10 +47,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
     
-    <pyqgis_plugin name="속성입력" version="3.5.1" plugin_id="100000">
+    <pyqgis_plugin name="속성입력" version="3.3.2" plugin_id="100000">
         <description><![CDATA[속성값 일괄 입력]]></description>
         <about><![CDATA[속성입력_ver3]]></about>
-        <version><![CDATA[3.5.1]]></version>
+        <version><![CDATA[3.3.2]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
@@ -58,7 +58,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/add_values/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/add_values/add_values.zip</download_url>
-        <update_date>2023-08-30T01:23:45</update_date>
+        <update_date>2023-09-14T01:23:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
