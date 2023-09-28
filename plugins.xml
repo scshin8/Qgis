@@ -130,4 +130,25 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <external_dependencies></external_dependencies>
         <server>False</server>
     </pyqgis_plugin>
+    
+    <pyqgis_plugin name="그리기도구" version="0.1" plugin_id="100000">
+        <description><![CDATA[그리기 도구(노드,링크,폴리곤)]]></description>
+        <about><![CDATA[그리기도구]]></about>
+        <version><![CDATA[0.1]]></version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage><![CDATA[]]></homepage>
+        <file_name>drawing_Tools.zip</file_name>
+        <icon>https://scshin8.github.io/Qgis/drawing_Tools/icon.png</icon>
+        <author_name><![CDATA[scshin]]></author_name>
+        <download_url>https://scshin8.github.io/Qgis/drawing_Tools/drawing_Tools.zip</download_url>
+        <update_date>2023-09-29T01:23:45</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[]]></tracker>
+        <repository><![CDATA[https://github.com/scshin8/Qgis]]></repository>
+        <tags><![CDATA[]]></tags>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
 </plugins>
