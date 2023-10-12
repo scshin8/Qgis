@@ -89,10 +89,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
     
-    <pyqgis_plugin name="레이어이동" version="0.5" plugin_id="100000">
+    <pyqgis_plugin name="레이어이동" version="0.6" plugin_id="100000">
         <description><![CDATA[선택레이어 변경, 이동]]></description>
         <about><![CDATA[레이어이동]]></about>
-        <version><![CDATA[0.5]]></version>
+        <version><![CDATA[0.6]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
@@ -100,7 +100,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/currentlayer_mod/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/currentlayer_mod/currentlayer_mod.zip</download_url>
-        <update_date>2023-10-06T01:23:45</update_date>
+        <update_date>2023-10-12T01:23:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
