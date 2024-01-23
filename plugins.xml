@@ -184,7 +184,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/split_save/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/split_save/split_save.zip</download_url>
-        <update_date>2024-01-23T01:23:45</update_date>
+        <update_date>2024-01-23T01:23:44</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
