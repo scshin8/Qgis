@@ -174,7 +174,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
     </pyqgis_plugin>
     
     <pyqgis_plugin name="스플릿분할" version="0.1" plugin_id="100000">
-        <description><![CDATA[레이어로 분할]></description>
+        <description><![CDATA[입력레이어를 중첩레이어로 분할]></description>
         <about><![CDATA[스플릿분할]]></about>
         <version><![CDATA[0.1]]></version>
         <trusted>False</trusted>
