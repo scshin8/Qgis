@@ -58,7 +58,28 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/solemap_tool/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/solemap_tool/solemap_tool.zip</download_url>
-        <update_date>2025-1-67T01:23:45</update_date>
+        <update_date>2025-1-7T01:23:45</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[]]></tracker>
+        <repository><![CDATA[https://github.com/scshin8/Qgis]]></repository>
+        <tags><![CDATA[field, value]]></tags>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
+    
+    <pyqgis_plugin name="솔맵_포팅쉐입" version="0.2" plugin_id="100000">
+        <description><![CDATA[]]></description>
+        <about><![CDATA[]]></about>
+        <version><![CDATA[0.2]]></version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage><![CDATA[]]></homepage>
+        <file_name>SoleMapBufferTool.zip</file_name>
+        <icon>https://scshin8.github.io/Qgis/SoleMapBufferTool/icon.png</icon>
+        <author_name><![CDATA[scshin]]></author_name>
+        <download_url>https://scshin8.github.io/Qgis/SoleMapBufferTool/SoleMapBufferTool.zip</download_url>
+        <update_date>2025-1-T01:23:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
