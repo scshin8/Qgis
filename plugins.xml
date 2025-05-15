@@ -14,7 +14,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/coordinate_tool/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/coordinate_tool/coordinate_tool.zip</download_url>
-        <update_date>2025-5-13T14:19:45</update_date>
+        <update_date>2025-5-15T14:19:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
