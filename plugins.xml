@@ -24,10 +24,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
          
-    <pyqgis_plugin name="solemap_tool" version="0.4" plugin_id="100000">
+    <pyqgis_plugin name="solemap_tool" version="0.5" plugin_id="100000">
         <description><![CDATA[]]></description>
         <about><![CDATA[]]></about>
-        <version><![CDATA[0.4]]></version>
+        <version><![CDATA[0.5]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
