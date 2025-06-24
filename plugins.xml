@@ -1,12 +1,12 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
     
-    <pyqgis_plugin name="좌표도구" version="3.5.7" plugin_id="100000">
+    <pyqgis_plugin name="좌표도구" version="3.5.8" plugin_id="100000">
         <description><![CDATA[좌표 복사, 이동, 변환 하거나 웹지도를 연결하는 도구]]></description>
         <about><![CDATA[이 플러그인은 좌표 복사 및 좌표이동 쉬우며, 카카오 NAVER 와 같은 웹지도를 연결 할 수 있습니다.
 API를 이용하여 주소검색과 키워드 검색도 지원합니다.
 백터레이어의 길이, 좌표, 면적과 같은 도형의 값을 필드 계산기를 사용하지 않고 쉽게 결과를 얻을 수 있습니다.]]></about>
-        <version><![CDATA[3.5.7]]></version>
+        <version><![CDATA[3.5.8]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
@@ -14,7 +14,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/coordinate_tool/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/coordinate_tool/coordinate_tool.zip</download_url>
-        <update_date>2025-6-13T14:19:45</update_date>
+        <update_date>2025-6-24T14:19:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
@@ -150,10 +150,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
     
-    <pyqgis_plugin name="속성매칭" version="0.6" plugin_id="100000">
+    <pyqgis_plugin name="속성매칭" version="0.7" plugin_id="100000">
         <description><![CDATA[속성값 복사, 붙여넣기]]></description>
         <about><![CDATA[속성매칭]]></about>
-        <version><![CDATA[0.6]]></version>
+        <version><![CDATA[0.7]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
@@ -161,7 +161,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/attribute_match/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/attribute_match/attribute_match.zip</download_url>
-        <update_date>2024-10-19T01:23:45</update_date>
+        <update_date>2025-06-24T01:23:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
