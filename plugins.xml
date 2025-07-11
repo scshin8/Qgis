@@ -129,18 +129,18 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
     </pyqgis_plugin>
     
-    <pyqgis_plugin name="코맨트 입력" version="0.1" plugin_id="100000">
+    <pyqgis_plugin name="코맨트 도구" version="0.1" plugin_id="100000">
         <description><![CDATA[코맨트 입력]]></description>
         <about><![CDATA[코맨트 입력]]></about>
         <version><![CDATA[0.1]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
-        <file_name>comment_manager.zip</file_name>
-        <icon>https://scshin8.github.io/Qgis/comment_manager/icon.png</icon>
+        <file_name>comment_tool.zip</file_name>
+        <icon>https://scshin8.github.io/Qgis/comment_tool/icon.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
-        <download_url>https://scshin8.github.io/Qgis/comment_manager/comment_manager.zip</download_url>
-        <update_date>2023-03-12T01:23:45</update_date>
+        <download_url>https://scshin8.github.io/Qgis/comment_tool/comment_tool.zip</download_url>
+        <update_date>2025-07-11T01:23:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
