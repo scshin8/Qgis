@@ -160,26 +160,26 @@
         <rule label="blue" symbol="8" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'blue'" key="{91e7e712-abce-437a-a6b2-59c10470a2a4}"/>
         <rule label="green" symbol="9" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'green'" key="{cb103983-2472-47a0-9a04-5916e85c188d}"/>
       </rule>
-      <rule label="02_불일치" filter="&quot;Class&quot; = '02_불일치'" key="{fc517a19-4731-484b-aeb4-ee74221f5259}">
+      <rule label="02_불일치" filter="&quot;Class&quot; = '02_불일치'" checkstate="0" key="{fc517a19-4731-484b-aeb4-ee74221f5259}">
         <rule label="확인" symbol="10" filter="&quot;확인결과&quot; is not null" key="{2e75df74-6a30-473c-aae9-43f8cd7adfdd}"/>
         <rule label="pink" symbol="11" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'pink'" key="{0de12af3-ff11-499f-bfff-06959a92e6e5}"/>
         <rule label="blue" symbol="12" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'blue'" key="{515071d8-3b64-4192-a4d0-614d35a71621}"/>
         <rule label="green" symbol="13" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'green'" key="{4d7b8300-2245-4d4b-9302-c8a45920b28f}"/>
       </rule>
-      <rule label="03_비매칭" filter="&quot;Class&quot; = '03_비매칭'" key="{0797d4fe-8382-4aea-b32e-14196f555ea7}">
+      <rule label="03_비매칭" filter="&quot;Class&quot; = '03_비매칭'" checkstate="0" key="{0797d4fe-8382-4aea-b32e-14196f555ea7}">
         <rule label="확인" symbol="14" filter="&quot;확인결과&quot; is not null" checkstate="0" key="{8c455a79-5aa5-4321-b946-652e11b3b862}"/>
         <rule label="pink" symbol="15" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'pink'" key="{0a221587-b73f-4959-a2e6-aa74eceeb667}"/>
         <rule label="blue" symbol="16" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'blue'" key="{b014278c-4ff7-4470-9825-333e5fcf24a6}"/>
         <rule label="green" symbol="17" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'green'" key="{679192ac-e270-41e5-bf1a-601feb7a7397}"/>
       </rule>
-      <rule label="04_톨게이트" filter="&quot;Class&quot; = '04_톨게이트'" key="{8e106a19-bd1a-48a5-a222-0f901aafa5ee}">
+      <rule label="04_톨게이트" filter="&quot;Class&quot; = '04_톨게이트'" checkstate="0" key="{8e106a19-bd1a-48a5-a222-0f901aafa5ee}">
         <rule label="확인" symbol="18" filter="&quot;확인결과&quot; is not null" checkstate="0" key="{dc8b6f14-0d69-4d67-b93d-3cb10524d70f}"/>
         <rule label="pink" symbol="19" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'pink'" key="{60c9d196-ab2c-4187-8024-585b6499d81b}"/>
         <rule label="blue" symbol="20" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'blue'" key="{9ef64ad9-4e2c-4815-93fe-bc5daa38db24}"/>
         <rule label="green" symbol="21" filter="&quot;확인결과&quot; is null and &quot;영상_색상&quot; = 'green'" key="{123942f5-bbaa-4f38-8a67-004fd4d29b04}"/>
       </rule>
-      <rule label="05_타권역" symbol="22" filter="&quot;Class&quot; = '05_타권역'" checkstate="0" key="{64a90670-9ac7-410c-90a5-deb62080eac8}"/>
-      <rule symbol="23" filter="ELSE" checkstate="0" key="{0b3ef91b-6c8a-4019-a57d-055a937a6332}"/>
+      <rule label="05_미구축대상" symbol="22" filter="&quot;Class&quot; = '05_미구축대상'" key="{65687ef7-d945-4377-acb1-abeed2a925d1}"/>
+      <rule label="06_타권역" symbol="23" filter="&quot;Class&quot; = '06_타권역'" key="{64a90670-9ac7-410c-90a5-deb62080eac8}"/>
     </rules>
     <symbols>
       <symbol type="line" frame_rate="10" name="0" is_animated="0" alpha="1" clip_to_extent="1" force_rhr="0">
@@ -1897,7 +1897,7 @@
             <Option type="QString" value="MM" name="dash_pattern_offset_unit"/>
             <Option type="QString" value="0" name="draw_inside_polygon"/>
             <Option type="QString" value="bevel" name="joinstyle"/>
-            <Option type="QString" value="82,82,82,255" name="line_color"/>
+            <Option type="QString" value="179,46,212,255" name="line_color"/>
             <Option type="QString" value="solid" name="line_style"/>
             <Option type="QString" value="1" name="line_width"/>
             <Option type="QString" value="MM" name="line_width_unit"/>
@@ -1961,7 +1961,7 @@
               <Option type="Map">
                 <Option type="QString" value="90" name="angle"/>
                 <Option type="QString" value="square" name="cap_style"/>
-                <Option type="QString" value="82,82,82,255" name="color"/>
+                <Option type="QString" value="179,46,212,255" name="color"/>
                 <Option type="QString" value="1" name="horizontal_anchor_point"/>
                 <Option type="QString" value="bevel" name="joinstyle"/>
                 <Option type="QString" value="triangle" name="name"/>
@@ -2010,7 +2010,7 @@
             <Option type="QString" value="MM" name="dash_pattern_offset_unit"/>
             <Option type="QString" value="0" name="draw_inside_polygon"/>
             <Option type="QString" value="bevel" name="joinstyle"/>
-            <Option type="QString" value="255,98,1,255" name="line_color"/>
+            <Option type="QString" value="82,82,82,255" name="line_color"/>
             <Option type="QString" value="solid" name="line_style"/>
             <Option type="QString" value="1" name="line_width"/>
             <Option type="QString" value="MM" name="line_width_unit"/>
@@ -2074,7 +2074,7 @@
               <Option type="Map">
                 <Option type="QString" value="90" name="angle"/>
                 <Option type="QString" value="square" name="cap_style"/>
-                <Option type="QString" value="255,98,1,255" name="color"/>
+                <Option type="QString" value="82,82,82,255" name="color"/>
                 <Option type="QString" value="1" name="horizontal_anchor_point"/>
                 <Option type="QString" value="bevel" name="joinstyle"/>
                 <Option type="QString" value="triangle" name="name"/>
