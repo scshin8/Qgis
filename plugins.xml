@@ -39,7 +39,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
-        <repository><![CDATA[https://github.com/scshin8/Qgis]]></repository>
+        <repository><![CDATA[]]></repository>
         <tags><![CDATA[field, value]]></tags>
         <external_dependencies></external_dependencies>
         <server>False</server>
