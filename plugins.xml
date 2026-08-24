@@ -24,8 +24,8 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
         
     </pyqgis_plugin>
-        <pyqgis_plugin name="custom_toolbar" version="0.1" plugin_id="100000">
-        <description><![CDATA[]]></description>
+        <pyqgis_plugin name="커스텀 툴바" version="0.1" plugin_id="100000">
+        <description><![CDATA[여러 툴바 및 메뉴 기능을 골라 나만의 커스텀 툴바를 구성]]></description>
         <about><![CDATA[]]></about>
         <version><![CDATA[0.1]]></version>
         <trusted>False</trusted>
