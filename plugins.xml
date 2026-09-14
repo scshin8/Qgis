@@ -24,10 +24,10 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <server>False</server>
         
     </pyqgis_plugin>
-        <pyqgis_plugin name="커스텀 툴바" version="0.3" plugin_id="100000">
+        <pyqgis_plugin name="커스텀 툴바" version="0.4" plugin_id="100000">
         <description><![CDATA[여러 툴바 및 메뉴 기능을 골라 나만의 커스텀 툴바를 구성]]></description>
         <about><![CDATA[]]></about>
-        <version><![CDATA[0.3]]></version>
+        <version><![CDATA[0.4]]></version>
         <trusted>False</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage><![CDATA[]]></homepage>
@@ -35,7 +35,7 @@ API를 이용하여 주소검색과 키워드 검색도 지원합니다.
         <icon>https://scshin8.github.io/Qgis/custom_toolbar/icon-wizard.png</icon>
         <author_name><![CDATA[scshin]]></author_name>
         <download_url>https://scshin8.github.io/Qgis/custom_toolbar/custom_toolbar.zip</download_url>
-        <update_date>2026-9-9T01:23:45</update_date>
+        <update_date>2026-9-14T01:23:45</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[]]></tracker>
